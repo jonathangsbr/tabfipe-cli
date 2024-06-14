@@ -3,9 +3,9 @@ module github.com/jonathangsbr/tabfipe-cli
 go 1.21.2
 
 require (
-	github.com/jonathangsbr/tabfipe-api-gateway v1.2.0
+	github.com/jonathangsbr/tabfipe-api-gateway/v2 v2.0.0
 	github.com/spf13/cobra v1.8.0
-	golang.org/x/text v0.14.0
+	golang.org/x/text v0.16.0
 )
 
 require (
